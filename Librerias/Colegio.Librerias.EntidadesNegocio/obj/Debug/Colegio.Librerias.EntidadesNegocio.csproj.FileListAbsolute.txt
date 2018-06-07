@@ -1,0 +1,4 @@
+J:\Gustavo_Reque\Proyecto_Final\Proyecto_Final_Avance02\Librerias\Colegio.Librerias.EntidadesNegocio\bin\Debug\Colegio.Librerias.EntidadesNegocio.dll
+J:\Gustavo_Reque\Proyecto_Final\Proyecto_Final_Avance02\Librerias\Colegio.Librerias.EntidadesNegocio\bin\Debug\Colegio.Librerias.EntidadesNegocio.pdb
+J:\Gustavo_Reque\Proyecto_Final\Proyecto_Final_Avance02\Librerias\Colegio.Librerias.EntidadesNegocio\obj\Debug\Colegio.Librerias.EntidadesNegocio.dll
+J:\Gustavo_Reque\Proyecto_Final\Proyecto_Final_Avance02\Librerias\Colegio.Librerias.EntidadesNegocio\obj\Debug\Colegio.Librerias.EntidadesNegocio.pdb

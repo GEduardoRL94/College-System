@@ -1,0 +1,7 @@
+J:\Gustavo_Reque\Proyecto_Final\Proyecto_Final_Avance02\Librerias\Colegio.Librerias.AccesoDatos\bin\Debug\Colegio.Librerias.AccesoDatos.dll
+J:\Gustavo_Reque\Proyecto_Final\Proyecto_Final_Avance02\Librerias\Colegio.Librerias.AccesoDatos\bin\Debug\Colegio.Librerias.AccesoDatos.pdb
+J:\Gustavo_Reque\Proyecto_Final\Proyecto_Final_Avance02\Librerias\Colegio.Librerias.AccesoDatos\bin\Debug\Colegio.Librerias.EntidadesNegocio.dll
+J:\Gustavo_Reque\Proyecto_Final\Proyecto_Final_Avance02\Librerias\Colegio.Librerias.AccesoDatos\bin\Debug\Colegio.Librerias.EntidadesNegocio.pdb
+J:\Gustavo_Reque\Proyecto_Final\Proyecto_Final_Avance02\Librerias\Colegio.Librerias.AccesoDatos\obj\Debug\Colegio.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+J:\Gustavo_Reque\Proyecto_Final\Proyecto_Final_Avance02\Librerias\Colegio.Librerias.AccesoDatos\obj\Debug\Colegio.Librerias.AccesoDatos.dll
+J:\Gustavo_Reque\Proyecto_Final\Proyecto_Final_Avance02\Librerias\Colegio.Librerias.AccesoDatos\obj\Debug\Colegio.Librerias.AccesoDatos.pdb
